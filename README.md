@@ -8,12 +8,6 @@
   🎓 <b>18-годишен системен програмист</b> | 💻 <b>Бъдещ софтуерен инженер</b> | 📍 <b>Гоце Делчев, България</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yusufkapanak132">
-    <img src="https://img.shields.io/github/followers/yusufkapanak132?label=Последвай+ме&style=social" alt="GitHub followers">
-  </a>
-</p>
-
 ---
 
 ## 🚀 Професионално представяне
