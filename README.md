@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Yusuf
 
-<!--
-**yusufkapanak132/yusufkapanak132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 18-year-old System Programmer  
+💻 Aspiring Software Engineer  
+📍 Bulgaria  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a motivated and passionate young developer with a strong foundation in system programming and backend development.
+
+I enjoy building scalable applications, learning modern technologies, and improving my problem-solving skills every day.
+
+Currently focusing on:
+- Python & Backend Development
+- Full-Stack Web Applications
+- DevOps & Cloud Technologies
+- Clean Code & Software Architecture
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Backend
+- Python
+- Django
+- FastAPI
+- Flask
+
+### 🌐 Frontend
+- React
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+### 🗄 Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+### ⚙ DevOps & Tools
+- Docker
+- Git
+- GitHub
+- CI/CD
+- Linux
+
+---
+
+## 📊 GitHub Stats
+
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufkapanak132&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkapanak132&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready applications
+- Contribute to open-source
+- Get professional software engineering position
+- Keep improving every day
+
+---
+
+## 📫 Contact Me
+
+📧 your-email-here  
+📍 Bulgaria  
+
+---
+
+⭐ "Code. Learn. Improve. Repeat."
