@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=System+Programmer;Future+Software+Engineer;Backend+Developer;Always+Learning" />
+</p>
 # 👋 Hi, I'm Yusuf
 
 🎓 18-year-old System Programmer  
