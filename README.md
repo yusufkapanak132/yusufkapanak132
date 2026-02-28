@@ -69,10 +69,10 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufkapanak132&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkapanak132&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusufkapanak132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yusuf Stats" height="180px" />
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusufkapanak132&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180px" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufkapanak132&theme=radical" alt="GitHub Streak" />
