@@ -97,7 +97,7 @@
 ## 📫 Контакти
 
 - 📧 **Имейл:** [yusuf.kapanak132@gmail.com](mailto:yusuf.kapanak132@gmail.com)
-- 💼 **LinkedIn:** [В процес на разработка...]
+- 💼 **LinkedIn:** [https://bg.linkedin.com/in/yusuf-kapanak-0692743b4](https://bg.linkedin.com/in/yusuf-kapanak-0692743b4)
 - 📍 **Локация:** Гоце Делчев, България
 
 ---
