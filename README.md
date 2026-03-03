@@ -94,6 +94,7 @@
 
 ---
 
+
 ## 📫 Контакти
 
 <p align="center">
@@ -106,12 +107,23 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/y_kapanak?igsh=MWxkbnB4cW16Mnlxeg==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1MqLUdjiUV/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/776490369084031076">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
 📍 Гоце Делчев, България
 </p>
-
 ---
 
 <p align="center">
