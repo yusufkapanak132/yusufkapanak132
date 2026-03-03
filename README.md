@@ -96,13 +96,21 @@
 
 ## 📫 Контакти
 
-- 📧 **Имейл:** [yusuf.kapanak132@gmail.com](mailto:yusuf.kapanak132@gmail.com)
- 
- - <a href="https://bg.linkedin.com/in/yusuf-kapanak-0692743b4" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="25"/>
+<p align="center">
+
+<a href="mailto:yusuf.kapanak132@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-- 📍 **Локация:** Гоце Делчев, България
+<a href="https://bg.linkedin.com/in/yusuf-kapanak-0692743b4">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+📍 Гоце Делчев, България
+</p>
 
 ---
 
