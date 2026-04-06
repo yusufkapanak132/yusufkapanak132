@@ -1,7 +1,7 @@
 # 👋 Здравейте, аз съм Юсуф!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Системен+програмист;Бъдещ+софтуерен+инженер;Full-Stack+Developer;Непрекъснато+се+уча" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Системен+програмист;Бъдещ+електронен+инженер;Full-Stack+Developer;Непрекъснато+се+уча" alt="Typing SVG" />
 </p>
 
 <p align="center">
